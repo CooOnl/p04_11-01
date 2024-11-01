@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+div#wrap {
+	border: 3px solid #aaa;
+	margin : 0 auto;
+	text-align: center;
+	width : 340px;
+	
+	border-radius: 5px;
+	
+	
+}
+.ft {
+	margin-top : 10px;
+	margin-bottom : 3px;
+	font-size : 25px;
+}
+.ft2 {
+	margin : 20px;
+	line-height: 15px;
+}
+
+.btn {
+	width : 300px;
+	padding : 5px;
+	font-size : 17px;
+	font-weight : bold;
+	margin-top : 10px;
+	margin-bottom : 13px;
+	border: 1px solid #aaa; 
+	border-radius: 5px;
+}
+.year{
+	width : 50px;
+}
+.mon {
+	width : 30px;
+}
+.day {
+	width :30px;
+}
+h3{
+	
+	margin-bottom : 5px;
+	color : #418fe7;
+}
+.heig {
+	margin : 5px;
+}
